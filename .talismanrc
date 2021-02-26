@@ -3,3 +3,5 @@
 fileignoreconfig:
 - filename: .github/workflows/release.yml
   checksum: be3e0d4c7edcb374e48a402fb87c08b86fe49e4f89bbdf1e04bd8d14492abec6
+- filename: providers.tf
+  checksum: 66365e2ab2357141f0269b8f4c1c5aac13b3a0988a5cf244448197120c780bd1

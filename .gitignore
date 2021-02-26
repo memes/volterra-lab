@@ -12,3 +12,8 @@ terraform.tfvars
 terraform.tfvars.json
 *.auto.tfvars
 *.auto.tfvars.json
+
+# Make sure pem/key/p12 never gets added
+*.pem
+*.key
+*.p12
