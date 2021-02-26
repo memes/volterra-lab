@@ -1,0 +1,8 @@
+# spell-checker: ignore fileignoreconfig
+---
+fileignoreconfig:
+- filename: .github/workflows/release.yml
+  checksum: be3e0d4c7edcb374e48a402fb87c08b86fe49e4f89bbdf1e04bd8d14492abec6
+# Remove after rename
+- filename: dotenvrc
+  checksum: a10164ae921656dd8f0f7865d483eda9b5200398e5b3ab2489694c3b979d0e37
