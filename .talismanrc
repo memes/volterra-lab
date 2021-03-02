@@ -1,7 +1,11 @@
 # spell-checker: ignore fileignoreconfig
 ---
 fileignoreconfig:
-- filename: .github/workflows/release.yml
-  checksum: be3e0d4c7edcb374e48a402fb87c08b86fe49e4f89bbdf1e04bd8d14492abec6
 - filename: providers.tf
   checksum: 66365e2ab2357141f0269b8f4c1c5aac13b3a0988a5cf244448197120c780bd1
+- filename: variables.tf
+  checksum: e2690a54501ab7f505f1c0cfbdb59679d11ae7986eab425b22125b603622478e
+- filename: README.md
+  checksum: 70820c1d20ee7358a264658b7bea9987722f966e6ddf9a7bea61f314304f7415
+- filename: main.tf
+  checksum: 5431f387c5a06d01b8e4866db911d45195168c0951b37e55fa1aa94e5048f01a

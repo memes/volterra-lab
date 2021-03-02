@@ -2,10 +2,6 @@
 ---
 # spell-checker:disable
 repos:
-  - repo: https://github.com/golangci/golangci-lint
-    rev: v1.37.1
-    hooks:
-      - id: golangci-lint
   - repo: https://github.com/adrienverge/yamllint
     rev: v1.26.0
     hooks:
